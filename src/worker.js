@@ -4,7 +4,7 @@ const proxyIPs = ['cdn.anycast.eu.org','cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6ga
 
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
-let sha224Password = 'ec8b5a29d8457154e9a5987bfe4955b8c7ecb5c637443128176ccc5d'; //pwd: ctk
+let sha224Password = '22404f0e66eddcefdcf20c7ed5ac2bb60e36388ccc87a0bb5f3baab1'; //pwd: rayz
 
 const worker_default = {
    /**
